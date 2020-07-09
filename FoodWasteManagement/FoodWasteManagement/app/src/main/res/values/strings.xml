@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FoodWasteManagement</string>
+    <string name="Login">Login</string>
+    <string name="register_here">Register Here!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="farmer">Farmer</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="new_user">New User?</string>
+    <string name="region">Region</string>
+    <string name="login_here">Login here!</string>
+    <string name="already_registered">already registered?</string>
+    <string name="register">Register</string>
+    <string name="reenter_password">Reenter Password</string>
+
+
+    <string name="prod_prompt">Choose a product</string>
+    <string name="enter_the_quantity">Enter the quantity</string>
+    <string name="show_restaurant_list">Show Restaurants</string>
+    <string name="choose_your_product">choose your product</string>
+    <string name="show_farmers">Show Farmers</string>
+    <string-array name="Products">
+        <item>Corn</item>
+        <item>Spinach</item>
+        <item>Green Peas</item>
+    </string-array>
+</resources>
